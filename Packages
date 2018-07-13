@@ -1,0 +1,14 @@
+Package: com.jailbreak.aze.OnlineNotifyAze
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Jailbreak.Aze <saleh.agmali@gmail.com)>
+Depends: Windterboard, anemone
+Filename: OnlineNotifyAze.deb
+Size: 363454
+MD5sum: 956F4C3AB182B54850C7D29012FBAF4E
+SHA1: 3D0598F98C1FC0B7E3EE84A79EE76A2145F059EA
+SHA256: 879452BD61D348826A7A16FEA23D053DFAA2C7C6E098B5E869FCF295DB9391C5
+Section: AzeTweaks
+Description: Azərbaycan dilində tərcümə olunmuş Tweak
+Author: Jailbreak.Aze <saleh.agmali@gmail.com)>
+Name: OnlineNotify Aze
